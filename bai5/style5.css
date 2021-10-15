@@ -10,7 +10,7 @@ body {
     margin: 0 auto;
     width: 700px;
     height: 700px;
-    background: url("images/bg-body.png") center no-repeat;
+    background: url("images03/bg-body.png") center no-repeat;
     background-size: 1600px 100%;
     font-size: 15px;
 }
@@ -18,7 +18,7 @@ body {
 .header_image {
     width: 100%;
     height: 140px;
-    background: url("images/bg-header.jpg");
+    background: url("images03/bg-header.jpg");
     background-size: 100% 100%;
 }
 
@@ -36,7 +36,7 @@ body {
 .menu {
     height: 35px;
     line-height: 35px;
-    background: url("images/bg-menu.png");
+    background: url("images03/bg-menu.png");
     background-size: 100% 100%;
 }
 
@@ -58,7 +58,7 @@ body {
 }
 
 .menu ul li:hover {
-    background: url("images/bg-menu-hover.png") center;
+    background: url("images03/bg-menu-hover.png") center;
 }
 
 .clear {
@@ -85,7 +85,7 @@ body {
 .left .left_image {
     width: 480px;
     height: 72px;
-    background: url("images/bg-ad-top.png");
+    background: url("images03/bg-ad-top.png");
     background-size: 100% 100%;
     margin-bottom: 20px;
 }
@@ -108,7 +108,7 @@ body {
 #comment_content {
     margin-top: 15px;
     padding-left: 20px;
-    background: url("images/icon-comment.png") no-repeat;
+    background: url("images03/icon-comment.png") no-repeat;
     background-position: 0px 3px;
 }
 
@@ -137,13 +137,13 @@ body {
 
 #bg-feed {
     border-bottom: none;
-    background: url("images/button-feed.png") no-repeat, url("images/bg-feed.gif") no-repeat;
+    background: url("images03/button-feed.png") no-repeat, url("images03/bg-feed.gif") no-repeat;
     background-position: center -26px, top;
 }
 
 #bg_list_bottom {
     border-bottom: none;
-    background: url("images/bg-sidebar-bottom.gif") no-repeat;
+    background: url("images03/bg-sidebar-bottom.gif") no-repeat;
     background-position: bottom;
 }
 
@@ -159,7 +159,7 @@ body {
 #footer {
     width: 700px;
     height: 100px;
-    background: url("images/bg-footer.jpg");
+    background: url("images03/bg-footer.jpg");
 }
 
 #footer p {
